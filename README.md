@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
    
  </p>
-<p>bienvenidos al repositorio de L4s5 Vaster.</p>
+<p>bienvenidos al repositorio de L4s5 Vaster flask.</p>
 
 - 🔭 I’m currently working on my **Python Course**
 
