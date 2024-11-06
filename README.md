@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enderson Daniel  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
-<p>L4s5 Vaster</p>
+   
+ </p>
+<p>bienvenidos al repositorio de L4s5 Vaster.</p>
 
 - 🔭 I’m currently working on my **Python Course**
 
@@ -45,6 +47,7 @@
   </a>
 </p>
 
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
@@ -52,6 +55,7 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
 
-Last Edited on: 05/08/2021
+
+ </p>
+<p>Grancias por ver Derechos Reselvados a l4s5 Vaster.</p>
